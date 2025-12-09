@@ -26,3 +26,5 @@ Sadece komutu çalıştırın ve soruları cevaplayın:
 flutter_cli
 ### 2.Argüman Modu
 flutter_cli --name my_awesome_app --arch clean
+### Ekran Görüntüsü
+ <img height="160" src="image/cli.png" />
