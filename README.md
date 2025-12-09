@@ -25,4 +25,4 @@ Aracı iki farklı şekilde kullanabilirsiniz: **İnteraktif Mod** veya **Argüm
 Sadece komutu çalıştırın ve soruları cevaplayın:
 flutter_cli
 ### 2.Argüman Modu
-flutter-cli --name my_awesome_app --arch clean
+flutter_cli --name my_awesome_app --arch clean
